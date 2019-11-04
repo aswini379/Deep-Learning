@@ -1,0 +1,1 @@
+All the 77,408 edema-labeled images were converted to .dcm format using "img2dcm" module of Python.
