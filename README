@@ -1,4 +1,4 @@
-Application of Deep Learning Algorithms for Radiologist Decision Support to Aid Edema Detection in Chest X-rays
-This project involves application of RESNET50, VGG16 and INCEPTION v4 to CheXpert dataset to classify the images based on the presence/absence/uncertainty of edema. The results from the classifier were uploaded to OHIF Viewer which works based on the ORTHANC PACS.
+Application of Deep Learning Algorithms for Radiologist Decision Support to Aid Pneumonia Detection in Chest X-rays
+This project involves application of RESNET50, VGG16 and INCEPTION v4 to CheXpert dataset to classify the images based on the presence/absence/uncertainty of pneumonia. The results from the classifier were uploaded to OHIF Viewer which works based on the ORTHANC PACS.
 
 The dataset can be obtained from https://stanfordmlgroup.github.io/competitions/chexpert/ after completing the registration.
